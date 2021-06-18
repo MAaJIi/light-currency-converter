@@ -1,1 +1,1 @@
-jQuery Tagi
+jQuery Tagify
