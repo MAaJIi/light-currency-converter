@@ -1,1 +1,1 @@
-jQue
+jQuery 
