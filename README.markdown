@@ -1,3 +1,3 @@
 jQuery Tagify
 =============
-Aut
+Author: 
