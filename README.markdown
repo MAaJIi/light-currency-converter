@@ -1,3 +1,3 @@
 jQuery Tagify
 =============
-Author: Alici
+Author: Alicia 
