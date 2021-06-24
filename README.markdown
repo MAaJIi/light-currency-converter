@@ -2,4 +2,4 @@ jQuery Tagify
 =============
 Author: Alicia Liu
 
-This jQuer
+This jQuery 
