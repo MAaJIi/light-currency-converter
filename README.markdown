@@ -2,4 +2,4 @@ jQuery Tagify
 =============
 Author: Alicia Liu
 
-This jQuery plug-in provides a stylized 
+This jQuery plug-in provides a stylized in
