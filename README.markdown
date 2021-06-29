@@ -2,4 +2,4 @@ jQuery Tagify
 =============
 Author: Alicia Liu
 
-This jQuery plug-in provides a stylized input field for cr
+This jQuery plug-in provides a stylized input field for crea
