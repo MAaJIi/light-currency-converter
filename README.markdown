@@ -6,4 +6,4 @@ This jQuery plug-in provides a stylized input field for creating tags. It uses t
 
 Demo
 ----
-[http://proj
+[http://project
