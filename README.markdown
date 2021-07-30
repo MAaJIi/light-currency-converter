@@ -8,4 +8,5 @@ Demo
 ----
 [http://projects.alicialiu.net/jquery-tagify-demo/](http://projects.alicialiu.net/jquery-tagify-demo/)
 
-Feature
+Features
+-
