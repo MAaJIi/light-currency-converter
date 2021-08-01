@@ -10,4 +10,4 @@ Demo
 
 Features
 --------
-* _New!_ Suppo
+* _New!_ Support
