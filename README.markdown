@@ -10,4 +10,4 @@ Demo
 
 Features
 --------
-* _New!_ 
+* _New!_ S
