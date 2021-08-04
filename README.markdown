@@ -10,4 +10,4 @@ Demo
 
 Features
 --------
-* _New!_ Supports full integrati
+* _New!_ Supports full integration w
