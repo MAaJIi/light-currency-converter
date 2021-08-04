@@ -10,4 +10,4 @@ Demo
 
 Features
 --------
-* _New!_ Supports f
+* _New!_ Supports full
