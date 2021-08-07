@@ -10,4 +10,4 @@ Demo
 
 Features
 --------
-* _New!_ Supports full integration with 
+* _New!_ Supports full integration with j
