@@ -10,4 +10,4 @@ Demo
 
 Features
 --------
-* _New!_ Supports full integration with jQuery UI Autocomp
+* _New!_ Supports full integration with jQuery UI Autocomplete 
