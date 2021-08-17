@@ -10,4 +10,4 @@ Demo
 
 Features
 --------
-* _New!_ Supports full integration with jQuery UI Autocomplete plug-in. Try typing some programming languages into the dem
+* _New!_ Supports full integration with jQuery UI Autocomplete plug-in. Try typing some programming languages into the demo.
