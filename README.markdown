@@ -11,4 +11,5 @@ Demo
 Features
 --------
 * _New!_ Supports full integration with jQuery UI Autocomplete plug-in. Try typing some programming languages into the demo.
-* _New!_ Supports blur action. After blur create a t
+* _New!_ Supports blur action. After blur create a tag
+* 
