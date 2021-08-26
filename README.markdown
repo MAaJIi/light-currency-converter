@@ -12,4 +12,4 @@ Features
 --------
 * _New!_ Supports full integration with jQuery UI Autocomplete plug-in. Try typing some programming languages into the demo.
 * _New!_ Supports blur action. After blur create a tag
-* Configurable keys to create a 
+* Configurable keys to create a tag
