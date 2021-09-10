@@ -14,4 +14,5 @@ Features
 * _New!_ Supports blur action. After blur create a tag
 * Configurable keys to create a tag
 * Backspace on empty field deletes last tag
-* Public methods to add and remove tags programaticall
+* Public methods to add and remove tags programatically
+*
