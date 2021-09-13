@@ -15,4 +15,4 @@ Features
 * Configurable keys to create a tag
 * Backspace on empty field deletes last tag
 * Public methods to add and remove tags programatically
-* Serialize method is separate, you can call it anytime t
+* Serialize method is separate, you can call it anytime to 
