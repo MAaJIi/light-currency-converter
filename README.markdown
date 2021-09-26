@@ -16,4 +16,4 @@ Features
 * Backspace on empty field deletes last tag
 * Public methods to add and remove tags programatically
 * Serialize method is separate, you can call it anytime to get the values from the tag field
-* Uses jQuery UI wid
+* Uses jQuery UI widget,
