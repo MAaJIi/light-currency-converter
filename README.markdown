@@ -17,3 +17,5 @@ Features
 * Public methods to add and remove tags programatically
 * Serialize method is separate, you can call it anytime to get the values from the tag field
 * Uses jQuery UI widget, to support callbacks
+
+P
