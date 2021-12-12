@@ -20,4 +20,6 @@ Features
 
 Pre-reqs
 --------
-To use this Plugin, you will nee
+To use this Plugin, you will need
+
+* 
