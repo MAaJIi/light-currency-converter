@@ -22,4 +22,4 @@ Pre-reqs
 --------
 To use this Plugin, you will need
 
-* 
+* jQuer
