@@ -23,4 +23,5 @@ Pre-reqs
 To use this Plugin, you will need
 
 * jQuery
-* jQuery UI - Tagify is built using jQuery UI Widge
+* jQuery UI - Tagify is built using jQuery UI Widget
+
