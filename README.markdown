@@ -26,4 +26,5 @@ To use this Plugin, you will need
 * jQuery UI - Tagify is built using jQuery UI Widget
 
 License
-------
+-------
+Th
