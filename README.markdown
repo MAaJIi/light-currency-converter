@@ -27,4 +27,4 @@ To use this Plugin, you will need
 
 License
 -------
-This co
+This code
