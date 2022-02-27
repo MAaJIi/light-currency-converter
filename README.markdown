@@ -27,4 +27,4 @@ To use this Plugin, you will need
 
 License
 -------
-This code is lic
+This code is license
