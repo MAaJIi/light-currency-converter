@@ -27,4 +27,4 @@ To use this Plugin, you will need
 
 License
 -------
-This code is licensed under the MIT Li
+This code is licensed under the MIT Licen
