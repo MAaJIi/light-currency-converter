@@ -27,4 +27,4 @@ To use this Plugin, you will need
 
 License
 -------
-This code is licensed under the MIT Licence: [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license
+This code is licensed under the MIT Licence: [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.p
