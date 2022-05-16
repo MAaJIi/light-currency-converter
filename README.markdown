@@ -32,4 +32,4 @@ This code is licensed under the MIT Licence: [http://www.opensource.org/licenses
 
 Basic Usage
 -----------
-To use it, simply call it on any i
+To use it, simply call it on any in
