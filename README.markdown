@@ -34,4 +34,4 @@ Basic Usage
 -----------
 To use it, simply call it on any input field:
 
-    $('text
+    $('textare
