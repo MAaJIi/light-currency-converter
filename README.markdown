@@ -35,3 +35,5 @@ Basic Usage
 To use it, simply call it on any input field:
 
     $('textarea.tagme').tagify();
+
+T
