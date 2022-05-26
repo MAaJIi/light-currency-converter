@@ -36,4 +36,4 @@ To use it, simply call it on any input field:
 
     $('textarea.tagme').tagify();
 
-To read the values in the field, call seria
+To read the values in the field, call serializ
