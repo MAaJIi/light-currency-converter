@@ -36,4 +36,6 @@ To use it, simply call it on any input field:
 
     $('textarea.tagme').tagify();
 
-To read the values in the field, call serialize method, which both returns the tags as a delimited string and enters it into the element that tagify was called o
+To read the values in the field, call serialize method, which both returns the tags as a delimited string and enters it into the element that tagify was called on.
+
+  
