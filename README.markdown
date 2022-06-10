@@ -40,4 +40,5 @@ To read the values in the field, call serialize method, which both returns the t
 
     $('textarea.tagme').tagify('serialize');
 
-You can do this on form submit, like thi
+You can do this on form submit, like this:
+
