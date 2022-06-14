@@ -44,4 +44,4 @@ You can do this on form submit, like this:
 
     $('form').submit( function() {
         $('textarea').tagify('serialize');
-  
+    
