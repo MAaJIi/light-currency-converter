@@ -46,3 +46,4 @@ You can do this on form submit, like this:
         $('textarea').tagify('serialize');
     }); 
 
+Use
