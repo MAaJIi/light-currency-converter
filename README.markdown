@@ -47,4 +47,4 @@ You can do this on form submit, like this:
     }); 
 
 Use with AutoComplete
----------
+-----------
