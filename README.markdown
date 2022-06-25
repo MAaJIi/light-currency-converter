@@ -48,4 +48,4 @@ You can do this on form submit, like this:
 
 Use with AutoComplete
 ---------------------
-jQuery Tagify plays well with jQuer
+jQuery Tagify plays well with jQuery U
