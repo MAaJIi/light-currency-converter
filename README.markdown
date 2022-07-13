@@ -48,4 +48,4 @@ You can do this on form submit, like this:
 
 Use with AutoComplete
 ---------------------
-jQuery Tagify plays well with jQuery UI Autocomplete Plugin. Setting the position moves the menu of suggestions to align with the div containing the tags,
+jQuery Tagify plays well with jQuery UI Autocomplete Plugin. Setting the position moves the menu of suggestions to align with the div containing the tags, y
