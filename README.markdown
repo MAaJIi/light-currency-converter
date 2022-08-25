@@ -54,4 +54,4 @@ jQuery Tagify plays well with jQuery UI Autocomplete Plugin. Setting the positio
  
     myTextArea.tagify('inputField').autocomplete({
         source: [whatever you want],
-        position: { of: myTextArea.tagify('co
+        position: { of: myTextArea.tagify('con
