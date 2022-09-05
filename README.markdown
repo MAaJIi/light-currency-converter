@@ -58,4 +58,4 @@ jQuery Tagify plays well with jQuery UI Autocomplete Plugin. Setting the positio
         close: function(event, ui) { myTextArea.tagify('add'); },
     });
 
-Mor
+More
