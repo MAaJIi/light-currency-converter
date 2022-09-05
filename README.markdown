@@ -57,3 +57,4 @@ jQuery Tagify plays well with jQuery UI Autocomplete Plugin. Setting the positio
         position: { of: myTextArea.tagify('containerDiv') },
         close: function(event, ui) { myTextArea.tagify('add'); },
     });
+
