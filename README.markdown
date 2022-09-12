@@ -60,4 +60,4 @@ jQuery Tagify plays well with jQuery UI Autocomplete Plugin. Setting the positio
 
 More Options
 ------------
-Available options and their defau
+Available options and their defaul
