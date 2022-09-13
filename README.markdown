@@ -62,4 +62,4 @@ More Options
 ------------
 Available options and their defaults are:
 
-* Wh
+* What us
