@@ -62,4 +62,4 @@ More Options
 ------------
 Available options and their defaults are:
 
-* What user can typ
+* What user can type
