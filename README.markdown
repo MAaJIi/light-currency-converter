@@ -62,4 +62,4 @@ More Options
 ------------
 Available options and their defaults are:
 
-* What us
+* What user ca
