@@ -62,4 +62,4 @@ More Options
 ------------
 Available options and their defaults are:
 
-* What user can type to complet
+* What user can type to complete 
