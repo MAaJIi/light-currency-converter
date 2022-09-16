@@ -62,4 +62,4 @@ More Options
 ------------
 Available options and their defaults are:
 
-* What user can type to complete a tag in char codes. Defa
+* What user can type to complete a tag in char codes. Defau
