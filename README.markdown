@@ -64,4 +64,4 @@ Available options and their defaults are:
 
 * What user can type to complete a tag in char codes. Default: [enter], [comma]
 
-        $('textarea').( {delimiters: [13, 188]} )
+        $('textarea').( {delimiters: [13, 188]} );
