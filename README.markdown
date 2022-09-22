@@ -66,4 +66,4 @@ Available options and their defaults are:
 
         $('textarea').( {delimiters: [13, 188]} );
 
-* Delimite
+* Delimiter
