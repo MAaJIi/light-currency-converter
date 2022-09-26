@@ -66,4 +66,6 @@ Available options and their defaults are:
 
         $('textarea').( {delimiters: [13, 188]} );
 
-* Delimiter for tags in original input fi
+* Delimiter for tags in original input field
+
+ 
