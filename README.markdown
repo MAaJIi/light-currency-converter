@@ -68,4 +68,4 @@ Available options and their defaults are:
 
 * Delimiter for tags in original input field
 
-        $(
+        $('tex
