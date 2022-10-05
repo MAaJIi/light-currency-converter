@@ -70,4 +70,4 @@ Available options and their defaults are:
 
         $('textarea').( {outputDelimiter: ','} );
 
-* CSS class to style
+* CSS class to style the
