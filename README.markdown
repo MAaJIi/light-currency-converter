@@ -70,4 +70,4 @@ Available options and their defaults are:
 
         $('textarea').( {outputDelimiter: ','} );
 
-* CSS class to style the tagif
+* CSS class to style the tagify div
