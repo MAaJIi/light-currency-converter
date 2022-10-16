@@ -73,3 +73,5 @@ Available options and their defaults are:
 * CSS class to style the tagify div and tags, see tagify-style.css
 
         $('textarea').( {cssClass: 'tagify-container'} );
+
+* 
