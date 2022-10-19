@@ -74,4 +74,4 @@ Available options and their defaults are:
 
         $('textarea').( {cssClass: 'tagify-container'} );
 
-* Placeholde
+* Placeholder
