@@ -76,4 +76,4 @@ Available options and their defaults are:
 
 * Placeholder text
 
-     
+        $(
