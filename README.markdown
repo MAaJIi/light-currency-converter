@@ -76,4 +76,4 @@ Available options and their defaults are:
 
 * Placeholder text
 
-        $('textarea').( {addTagPrompt: 'add tags'
+        $('textarea').( {addTagPrompt: 'add tags'} );
