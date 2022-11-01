@@ -78,4 +78,4 @@ Available options and their defaults are:
 
         $('textarea').( {addTagPrompt: 'add tags'} );
         
-* Blur action for cre
+* Blur action for creat
