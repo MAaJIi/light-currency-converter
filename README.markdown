@@ -80,4 +80,4 @@ Available options and their defaults are:
         
 * Blur action for creating tags
 
-        $('textarea').( {addTagOnBlur: 
+        $('textarea').( {addTagOnBlur: true
