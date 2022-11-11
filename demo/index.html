@@ -39,3 +39,9 @@ Author: Alicia Liu
     $('textarea.tagme').tagify();</pre>
 
     <p>
+    To read the values in the field, call serialize method, which both returns the tags as a delimited string
+    and enters it into the element that tagify was called on.</p>
+    <pre>
+    $('textarea.tagme').tagify('serialize');
+    </pre>
+    <p>You can do this on form submit, like this:
