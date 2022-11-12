@@ -56,3 +56,7 @@ Author: Alicia Liu
     match the width of your container div in CSS. Adding the close callback function
     adds the selected value as a tag.</p>
         <pre>var myTextArea = $('textarea').tagify();
+
+    myTextArea.tagify('inputField').autocomplete({
+        source: [whatever you want],
+        position: { of: myTextArea.tagify('containerDiv') },
