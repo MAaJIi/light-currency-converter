@@ -60,3 +60,7 @@ Author: Alicia Liu
     myTextArea.tagify('inputField').autocomplete({
         source: [whatever you want],
         position: { of: myTextArea.tagify('containerDiv') },
+        close: function(event, ui) { myTextArea.tagify('add'); },
+    });</pre>
+    </div>
+    <div class="col">
