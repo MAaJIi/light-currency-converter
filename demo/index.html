@@ -130,3 +130,6 @@ $('textarea').( {addTagPrompt: 'add tags'} );</pre></li>
     });
     
     $('form').submit( function() {
+         var tagStr = $('textarea').tagify('serialize');
+         alert( "Got tags: " + tagStr );
+         return false;
