@@ -120,3 +120,7 @@ $('textarea').( {addTagPrompt: 'add tags'} );</pre></li>
   <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.14/jquery-ui.min.js"></script>
   <script src="jquery.tagify.js"></script>
   <script>
+  
+    var myTextArea = $('textarea').tagify();
+
+    myTextArea.tagify('inputField').autocomplete({
