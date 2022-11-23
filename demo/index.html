@@ -124,3 +124,5 @@ $('textarea').( {addTagPrompt: 'add tags'} );</pre></li>
     var myTextArea = $('textarea').tagify();
 
     myTextArea.tagify('inputField').autocomplete({
+        source: ["c++", "java", "php", "coldfusion", "javascript", "asp", "ruby"],
+        position: { of: myTextArea.tagify('containerDiv') },
