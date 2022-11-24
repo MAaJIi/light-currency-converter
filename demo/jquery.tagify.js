@@ -1,0 +1,5 @@
+
+/* Author: Alicia Liu */
+
+(function ($) {
+	
