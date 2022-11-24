@@ -25,3 +25,7 @@
 				.keypress( function(e) {
 					var $this = $(this),
 					    pressed = e.which;
+
+					for ( i in opts.delimiters ) {
+						
+						if (pressed == opts.delimiters[i]) {
