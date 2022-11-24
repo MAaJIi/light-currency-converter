@@ -20,3 +20,5 @@
 			this.tags = [];
 			
 			// hide text field and replace with a div that contains it's own input field for entering tags
+			this.tagInput = $("<input type='text'>")
+				.attr( 'placeholder', opts.addTagPrompt )
