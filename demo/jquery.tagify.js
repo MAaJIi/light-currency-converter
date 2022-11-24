@@ -10,3 +10,8 @@
 			cssClass: 'tagify-container',   // CSS class to style the tagify div and tags, see stylesheet
 			addTagPrompt: 'add tags',       // placeholder text
 			addTagOnBlur: false				// Add a tag on blur when not empty
+		},
+		
+		_create: function() {
+			var self = this,
+				el = self.element,
