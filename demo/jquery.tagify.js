@@ -29,3 +29,6 @@
 					for ( i in opts.delimiters ) {
 						
 						if (pressed == opts.delimiters[i]) {
+							self.add( $this.val() );
+							e.preventDefault(); 
+							return false;
