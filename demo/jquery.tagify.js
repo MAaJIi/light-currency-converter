@@ -39,3 +39,7 @@
 				// so that we get rid of the backspace issue
 				.keydown(function(e){
 					self.keyDownValue = $(this).val();
+				})
+				// for some reason, in Safari, backspace is only recognized on keyup
+				.keyup( function(e) {
+					var $this = $(this),
