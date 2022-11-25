@@ -32,3 +32,4 @@
 							self.add( $this.val() );
 							e.preventDefault(); 
 							return false;
+						}
