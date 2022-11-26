@@ -54,3 +54,5 @@
 						return;
 					}
 				});
+			
+			// Add tags blur event when required	
