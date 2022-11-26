@@ -43,3 +43,4 @@
 				// for some reason, in Safari, backspace is only recognized on keyup
 				.keyup( function(e) {
 					var $this = $(this),
+					    pressed = e.which;
