@@ -44,3 +44,8 @@
 				.keyup( function(e) {
 					var $this = $(this),
 					    pressed = e.which;
+
+					// if backspace is hit with no input, remove the last tag
+					if (pressed == 8) { // backspace
+						if ( self.keyDownValue == '' ) {
+							self.remove();
