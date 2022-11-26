@@ -60,3 +60,4 @@
 				// When needed, add tags on blur
 				this.tagInput.blur( function(e) {
 					var $this = $(this);
+					
