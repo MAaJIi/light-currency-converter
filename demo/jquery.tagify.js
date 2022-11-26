@@ -61,3 +61,6 @@
 				this.tagInput.blur( function(e) {
 					var $this = $(this);
 					
+					// if lose focus on input field, check if length is empty
+					if ('' !== $this.val()) {
+						self.add( $this.val() );
