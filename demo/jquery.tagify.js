@@ -64,3 +64,5 @@
 					// if lose focus on input field, check if length is empty
 					if ('' !== $this.val()) {
 						self.add( $this.val() );
+						e.preventDefault(); 
+						return false;
