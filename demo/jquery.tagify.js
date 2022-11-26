@@ -49,3 +49,6 @@
 					if (pressed == 8) { // backspace
 						if ( self.keyDownValue == '' ) {
 							self.remove();
+							return false;
+						}
+						return;
