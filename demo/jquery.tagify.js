@@ -68,3 +68,9 @@
 						return false;
 					}
 				});
+			}	
+				
+			this.tagDiv = $("<div></div>")
+			    .addClass( opts.cssClass )
+			    .click( function() {
+			        $(this).children('input').focus();
