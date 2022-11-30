@@ -79,3 +79,7 @@
 				.insertAfter( el.hide() );
 				
 			// if the field isn't empty, parse the field for tags, and prepopulate existing tags
+			var initVal = $.trim( el.val() );
+
+			if ( initVal ) {
+				var initTags = initVal.split( opts.outputDelimiter );
