@@ -75,3 +75,7 @@
 			    .click( function() {
 			        $(this).children('input').focus();
 			    })
+			    .append( this.tagInput )
+				.insertAfter( el.hide() );
+				
+			// if the field isn't empty, parse the field for tags, and prepopulate existing tags
