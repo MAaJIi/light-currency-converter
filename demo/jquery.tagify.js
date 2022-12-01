@@ -83,3 +83,6 @@
 
 			if ( initVal ) {
 				var initTags = initVal.split( opts.outputDelimiter );
+				$.each( initTags, function(i, tag) {
+				    self.add( tag );
+				});
