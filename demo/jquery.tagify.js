@@ -86,3 +86,4 @@
 				$.each( initTags, function(i, tag) {
 				    self.add( tag );
 				});
+			}
