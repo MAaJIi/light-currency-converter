@@ -87,3 +87,6 @@
 				    self.add( tag );
 				});
 			}
+		},
+		
+		_setOption: function( key, value ) {
