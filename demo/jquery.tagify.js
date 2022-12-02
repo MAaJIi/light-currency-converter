@@ -91,3 +91,5 @@
 		
 		_setOption: function( key, value ) {
 			options.key = value;
+		},
+		
