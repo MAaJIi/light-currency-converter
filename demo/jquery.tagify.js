@@ -98,3 +98,5 @@
     		var self = this;
 			text = text || self.tagInput.val();
 			if (text) {
+				var tagIndex = self.tags.length;
+				
