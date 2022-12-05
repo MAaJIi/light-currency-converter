@@ -100,3 +100,5 @@
 			if (text) {
 				var tagIndex = self.tags.length;
 				
+				var removeButton = $("<a href='#'>x</a>")
+					.click( function() {
