@@ -106,3 +106,5 @@
 						return false;
 					});
 				var newTag = $("<span></span>")
+					.text( text )
+					.append( removeButton );
