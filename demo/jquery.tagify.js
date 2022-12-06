@@ -108,3 +108,5 @@
 				var newTag = $("<span></span>")
 					.text( text )
 					.append( removeButton );
+				
+				self.tagInput.before( newTag );
