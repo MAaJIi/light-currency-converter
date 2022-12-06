@@ -102,3 +102,7 @@
 				
 				var removeButton = $("<a href='#'>x</a>")
 					.click( function() {
+						self.remove( tagIndex );
+						return false;
+					});
+				var newTag = $("<span></span>")
