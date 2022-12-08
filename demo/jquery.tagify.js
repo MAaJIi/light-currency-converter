@@ -117,3 +117,5 @@
 		
 		// remove a tag by index, public function
 		// if index is blank, remove the last tag
+		remove: function( tagIndex ) {
+			var self = this;
