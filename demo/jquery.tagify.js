@@ -112,3 +112,8 @@
 				self.tagInput.before( newTag );
 				self.tags.push( text );
 				self.tagInput.val('');
+			}
+		},
+		
+		// remove a tag by index, public function
+		// if index is blank, remove the last tag
