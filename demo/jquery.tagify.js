@@ -122,3 +122,6 @@
 			if ( tagIndex == null  || tagIndex === (self.tags.length - 1) ) {
 				this.tagDiv.children("span").last().remove();
 				self.tags.pop();
+			}
+			if ( typeof(tagIndex) == 'number' ) {
+				// otherwise just hide this tag, and we don't mess up the index
