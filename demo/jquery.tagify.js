@@ -132,3 +132,9 @@
 		},
 		
 		// serialize the tags with the given delimiter, and write it back into the tagified field
+		serialize: function() {
+			var self = this;
+			var delim = self.options.outputDelimiter;
+			var tagsStr = self.tags.join( delim );
+			
+			// our tags might have deleted entries, remove them here
