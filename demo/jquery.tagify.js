@@ -146,3 +146,7 @@
 			return outputStr;
 		},
 		
+		inputField: function() {
+		    return this.tagInput;
+		},
+		
