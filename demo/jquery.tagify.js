@@ -161,3 +161,5 @@
 			this.element.show();
 		}
 	});
+
+})(jQuery);
