@@ -143,3 +143,6 @@
 			var outputStr = tagsStr.replace( dupes, delim ).replace(ends, '');
 			
 			self.element.val(outputStr);
+			return outputStr;
+		},
+		
