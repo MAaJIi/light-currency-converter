@@ -154,3 +154,5 @@
 		    return this.tagDiv;
 		},
 		
+		// remove the div, and show original input
+		destroy: function() {
