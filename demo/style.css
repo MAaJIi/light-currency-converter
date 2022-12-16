@@ -36,3 +36,6 @@ div.col {
   float: left;
   padding: 0 10px;
   margin: 0 10px;
+}
+div.col.first {
+  border-right: 5px dotted #38CDF1;
