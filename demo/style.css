@@ -42,3 +42,7 @@ div.col.first {
 }
 h1, h2 {
   color: #38CDF1;
+  text-align: center;
+  font-weight: 500;
+  margin: 10px;
+}
