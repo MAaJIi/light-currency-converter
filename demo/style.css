@@ -32,3 +32,7 @@ body, select, input, textarea {
   width: 900px;
 }
 div.col {
+  width: 400px;
+  float: left;
+  padding: 0 10px;
+  margin: 0 10px;
