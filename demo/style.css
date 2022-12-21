@@ -73,3 +73,6 @@ pre {
   width: 0;
   height: 0;
 }
+dl {
+  width: 200px;
+  display: block;
