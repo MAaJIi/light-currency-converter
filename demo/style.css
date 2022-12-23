@@ -79,3 +79,7 @@ dl {
   margin-left: auto;
   margin-right: auto;
 }
+dd, dt {
+  display: block;
+  float: left;
+  margin: 10px 10px 10px 0;
