@@ -85,3 +85,5 @@ dd, dt {
   margin: 10px 10px 10px 0;
 }
 p { margin-bottom: 5px; }
+ul.list, ol { margin-left: 2em; }
+ul.list li {
