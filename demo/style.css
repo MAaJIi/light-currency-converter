@@ -100,3 +100,7 @@ input.submit {
   padding: 8px;
   margin: 15px auto;
 }
+strong {
+  font-weight: bold;
+  color: orange;
+}
