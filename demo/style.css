@@ -96,3 +96,7 @@ header, form {
    margin: 15px auto; 
 }
 input.submit {
+  font-size: 15px;
+  padding: 8px;
+  margin: 15px auto;
+}
