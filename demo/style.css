@@ -92,3 +92,4 @@ ul.list li {
 header, form {
 
   display: block;
+  clear: both;
