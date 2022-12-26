@@ -105,3 +105,5 @@ strong {
   color: orange;
 }
 div.tagify-container {
+  margin: 15px auto;
+}
