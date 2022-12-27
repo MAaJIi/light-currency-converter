@@ -119,3 +119,5 @@ div.tagify-container {
  */
 
 /* Layout helpers
+----------------------------------*/
+.ui-helper-hidden { display: none; }
