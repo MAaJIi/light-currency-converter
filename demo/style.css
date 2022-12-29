@@ -141,3 +141,5 @@ div.tagify-container {
 ----------------------------------*/
 
 /* states and images */
+.ui-icon { display: block; text-indent: -99999px; overflow: hidden; background-repeat: no-repeat; }
+
