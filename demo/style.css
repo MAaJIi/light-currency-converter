@@ -237,3 +237,5 @@ div.tagify-container {
 	display:block;
 	float: left;
 }
+.ui-menu .ui-menu {
+	margin-top: -3px;
