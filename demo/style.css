@@ -244,3 +244,6 @@ div.tagify-container {
 	margin:0;
 	padding: 0;
 	zoom: 1;
+	float: left;
+	clear: left;
+	width: 100%;
