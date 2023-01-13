@@ -241,3 +241,5 @@ div.tagify-container {
 	margin-top: -3px;
 }
 .ui-menu .ui-menu-item {
+	margin:0;
+	padding: 0;
