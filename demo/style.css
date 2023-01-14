@@ -250,3 +250,6 @@ div.tagify-container {
 }
 .ui-menu .ui-menu-item a {
     color: #444;
+    border: none;
+	text-decoration:none;
+	display:block;
