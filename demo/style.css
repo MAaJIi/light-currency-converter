@@ -262,3 +262,7 @@ div.tagify-container {
 	font-weight: normal;
 	margin: -1px;
 }
+
+/* Tagify styles */
+.ui-menu {
+    width: 295px;
