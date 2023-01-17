@@ -288,3 +288,6 @@ div.tagify-container {
 }
 .tagify-container > span > a {
     padding-left: 5px;
+    color: #EB7E14;
+    text-decoration: none;
+    font-weight: bold;
