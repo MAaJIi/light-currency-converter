@@ -291,3 +291,7 @@ div.tagify-container {
     color: #EB7E14;
     text-decoration: none;
     font-weight: bold;
+    border: 0 none;
+}
+.tagify-container > input {
+    border: 0 none;
