@@ -276,3 +276,6 @@ div.tagify-container {
     font-family: Verdana, sans-serif;
     font-size: 12px;
     overflow: auto;
+}
+.tagify-container > span {
+    display: inline-block;
