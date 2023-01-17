@@ -287,3 +287,4 @@ div.tagify-container {
     color: #888;
 }
 .tagify-container > span > a {
+    padding-left: 5px;
