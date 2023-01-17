@@ -283,3 +283,7 @@ div.tagify-container {
     margin: 3px;
     border-radius: 2px;
     border: 1px solid #EEE;
+    background-color: #FFEBA1;
+    color: #888;
+}
+.tagify-container > span > a {
