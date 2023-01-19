@@ -13,3 +13,8 @@
 		},
 		
 		_create: function() {
+			var self = this,
+				el = self.element,
+				opts = self.options;
+
+			this.tags = [];
