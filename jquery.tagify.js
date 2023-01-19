@@ -18,3 +18,5 @@
 				opts = self.options;
 
 			this.tags = [];
+			
+			// hide text field and replace with a div that contains it's own input field for entering tags
