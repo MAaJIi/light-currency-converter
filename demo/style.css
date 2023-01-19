@@ -295,3 +295,5 @@ div.tagify-container {
 }
 .tagify-container > input {
     border: 0 none;
+    width: 100px;
+}
