@@ -24,3 +24,4 @@
 				.attr( 'placeholder', opts.addTagPrompt )
 				.keypress( function(e) {
 					var $this = $(this),
+					    pressed = e.which;
