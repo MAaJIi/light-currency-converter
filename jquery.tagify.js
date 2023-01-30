@@ -38,3 +38,5 @@
 				// we record the value of the textfield before the key is pressed
 				// so that we get rid of the backspace issue
 				.keydown(function(e){
+					self.keyDownValue = $(this).val();
+				})
