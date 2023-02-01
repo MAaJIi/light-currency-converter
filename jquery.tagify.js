@@ -51,3 +51,6 @@
 							self.remove();
 							return false;
 						}
+						return;
+					}
+				});
