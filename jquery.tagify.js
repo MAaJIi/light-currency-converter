@@ -54,3 +54,7 @@
 						return;
 					}
 				});
+			
+			// Add tags blur event when required	
+			if (opts.addTagOnBlur) {
+				// When needed, add tags on blur
