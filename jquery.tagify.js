@@ -65,3 +65,5 @@
 					if ('' !== $this.val()) {
 						self.add( $this.val() );
 						e.preventDefault(); 
+						return false;
+					}
