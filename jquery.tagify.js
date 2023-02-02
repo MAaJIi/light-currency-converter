@@ -74,3 +74,5 @@
 			    .addClass( opts.cssClass )
 			    .click( function() {
 			        $(this).children('input').focus();
+			    })
+			    .append( this.tagInput )
