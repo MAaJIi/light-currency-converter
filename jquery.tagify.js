@@ -67,3 +67,7 @@
 						e.preventDefault(); 
 						return false;
 					}
+				})
+			}	
+				
+			this.tagDiv = $("<div></div>")
