@@ -76,3 +76,5 @@
 			        $(this).children('input').focus();
 			    })
 			    .append( this.tagInput )
+				.insertAfter( el.hide() );
+				
