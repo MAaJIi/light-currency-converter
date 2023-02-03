@@ -97,3 +97,7 @@
 		add: function(text) {
     		var self = this;
 			text = text || self.tagInput.val();
+			if (text) {
+				var tagIndex = self.tags.length;
+				
+				var removeButton = $("<a href='#'>x</a>")
