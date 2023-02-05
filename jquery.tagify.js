@@ -109,3 +109,5 @@
 					.text( text )
 					.append( removeButton );
 				
+				self.tagInput.before( newTag );
+				self.tags.push( text );
