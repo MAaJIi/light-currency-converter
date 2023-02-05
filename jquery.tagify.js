@@ -118,3 +118,6 @@
 		// remove a tag by index, public function
 		// if index is blank, remove the last tag
 		remove: function( tagIndex ) {
+			var self = this;
+			if ( tagIndex == null  || tagIndex === (self.tags.length - 1) ) {
+				this.tagDiv.children("span").last().remove();
