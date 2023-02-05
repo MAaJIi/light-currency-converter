@@ -104,3 +104,6 @@
 					.click( function() {
 						self.remove( tagIndex );
 						return false;
+					});
+				var newTag = $("<span></span>")
+					.text( text )
