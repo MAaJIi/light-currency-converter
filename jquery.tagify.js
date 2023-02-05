@@ -112,3 +112,6 @@
 				self.tagInput.before( newTag );
 				self.tags.push( text );
 				self.tagInput.val('');
+			}
+		},
+		
