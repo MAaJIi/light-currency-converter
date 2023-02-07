@@ -125,3 +125,4 @@
 			}
 			if ( typeof(tagIndex) == 'number' ) {
 				// otherwise just hide this tag, and we don't mess up the index
+				this.tagDiv.children( "span:eq(" + tagIndex + ")" ).hide();
