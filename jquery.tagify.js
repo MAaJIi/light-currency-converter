@@ -130,3 +130,5 @@
 				delete( self.tags[tagIndex] );
 			}
 		},
+		
+		// serialize the tags with the given delimiter, and write it back into the tagified field
