@@ -132,3 +132,5 @@
 		},
 		
 		// serialize the tags with the given delimiter, and write it back into the tagified field
+		serialize: function() {
+			var self = this;
