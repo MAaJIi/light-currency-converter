@@ -127,3 +127,5 @@
 				// otherwise just hide this tag, and we don't mess up the index
 				this.tagDiv.children( "span:eq(" + tagIndex + ")" ).hide();
 				 // we rely on the serialize function to remove null values
+				delete( self.tags[tagIndex] );
+			}
