@@ -136,3 +136,6 @@
 			var self = this;
 			var delim = self.options.outputDelimiter;
 			var tagsStr = self.tags.join( delim );
+			
+			// our tags might have deleted entries, remove them here
+			var dupes = new RegExp(delim + delim + '+', 'g'); // regex: /,,+/g
