@@ -129,3 +129,4 @@
 				 // we rely on the serialize function to remove null values
 				delete( self.tags[tagIndex] );
 			}
+		},
