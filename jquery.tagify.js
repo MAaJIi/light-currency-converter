@@ -140,3 +140,6 @@
 			// our tags might have deleted entries, remove them here
 			var dupes = new RegExp(delim + delim + '+', 'g'); // regex: /,,+/g
 			var ends = new RegExp('^' + delim + '|' + delim + '$', 'g');  // regex: /^,|,$/g
+			var outputStr = tagsStr.replace( dupes, delim ).replace(ends, '');
+			
+			self.element.val(outputStr);
