@@ -149,3 +149,4 @@
 		inputField: function() {
 		    return this.tagInput;
 		},
+		
