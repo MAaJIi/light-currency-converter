@@ -150,3 +150,7 @@
 		    return this.tagInput;
 		},
 		
+		containerDiv: function() {
+		    return this.tagDiv;
+		},
+		
