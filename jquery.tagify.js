@@ -145,3 +145,7 @@
 			self.element.val(outputStr);
 			return outputStr;
 		},
+		
+		inputField: function() {
+		    return this.tagInput;
+		},
