@@ -154,3 +154,7 @@
 		    return this.tagDiv;
 		},
 		
+		// remove the div, and show original input
+		destroy: function() {
+		    $.Widget.prototype.destroy.apply(this);
+			this.tagDiv.remove();
