@@ -11,3 +11,5 @@ Author: Alicia Liu
     border-radius: 2px;
     font-family: Verdana, sans-serif;
     font-size: 12px;
+    overflow: auto;
+}
