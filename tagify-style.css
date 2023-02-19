@@ -14,3 +14,6 @@ Author: Alicia Liu
     overflow: auto;
 }
 .tagify-container > span {
+    display: inline-block;
+    padding: 3px 5px;
+    margin: 3px;
