@@ -29,3 +29,6 @@ Author: Alicia Liu
     font-weight: bold;
 }
 .tagify-container > input {
+    border: 0 none;
+    width: 100px;
+}
